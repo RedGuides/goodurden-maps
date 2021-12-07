@@ -1,0 +1,8 @@
+P 768.0000, -185.0000, 44.0000,  0, 0, 127,  2,  CAMP_1_ScoutHusman_Arcanist(BST1.0)
+P 297.0000, 1154.0000, 12.0000,  0, 0, 127,  2,  CAMP_3_VeteranDarznel_OfficerTregli(BST1.0)
+P -939.0000, 134.0000, 11.0000,  0, 0, 127,  2,  CAMP_7_CaptNecin_Bloodgaurd(BST1.0)
+P -22.0000, -852.0000, 0.0000,  0, 0, 127,  2,  CAMP_9_CaptNecin_NightKnife(BST1.0)
+P 1127.5193, 599.1400, 7.5856,  0, 0, 127,  2,  Scout_Derrin(BST1.0)
+P 1168.3300, 862.7681, 3.2590,  0, 0, 127,  2,  Scout_Husman(BST2.0)
+P -133.9593, -540.3975, 53.6328,  127, 0, 0,  2,  Grimling_General
+P 1409.8866, -38.2912, 129.9107,  127, 0, 0,  2,  Grimling_Colonel
