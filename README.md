@@ -58,7 +58,7 @@ via the in-game parcels
 ;tell xegony.Goodurden for any mistakes, ideas or if you need any help.
 
 ## Resource Links
-[Good's map pack](https://www.redguides.com/community/resources/goods-everquest-map-pack.303/)
-[Brewall's map pack](https://www.redguides.com/community/resources/brewalls-everquest-maps.153/)
+* [Good's map pack](https://www.redguides.com/community/resources/goods-everquest-map-pack.303/)  
+* [Brewall's map pack](https://www.redguides.com/community/resources/brewalls-everquest-maps.153/)
 
 
