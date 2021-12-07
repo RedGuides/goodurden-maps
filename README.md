@@ -1,8 +1,8 @@
 # Organizing Map Folders
 Custom maps should be kept in a sub-directory of your EverQuest map directory. For example,
 
-C:\users\public\Everquest\maps\Brewall's Maps 
-C:\users\public\Everquest\maps\Good's Maps
+C:\users\public\Everquest\maps\Brewall's Maps  
+C:\users\public\Everquest\maps\Good's Maps  
 
 In-game, you switch between map folders via a dropdown in the top left corner of the map.
 
@@ -57,6 +57,8 @@ or
 via the in-game parcels
 ;tell xegony.Goodurden for any mistakes, ideas or if you need any help.
 
-## MySEQ Maps
-These are Good's maps which have been flattened to work with the aging MySEQ. The map converter is included in the folder.   
-https://www.redguides.com/community/resources/myseq-map-files.1970/
+## Resource Links
+[Good's map pack](https://www.redguides.com/community/resources/goods-everquest-map-pack.303/)
+[Brewall's map pack](https://www.redguides.com/community/resources/brewalls-everquest-maps.153/)
+
+
