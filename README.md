@@ -49,13 +49,13 @@ Layer 2: Quests/Tasks/Missions informations and updates, ground spawn, container
 Layer 3: Zone Wide Rare often used for achievements or treasures dropper. Will also use layer 3 in towns and non agressive zones to isolate layer 1 from been over crowded. Making them often hard to read. In that case, guild masters and spell/disc vendors will be moved there.  
 
 ### Good's Donation Links
-Donations accepted but not required. Add a note with your RG username @
-https://www.paypal.me/Goodurden
-or
-j.p.chartre@hotmail.com
-or
-via the in-game parcels
-;tell xegony.Goodurden for any mistakes, ideas or if you need any help.
+Donations accepted but not required. Add a note with your RG username @  
+https://www.paypal.me/Goodurden  
+or  
+j.p.chartre@hotmail.com  
+or  
+via the in-game parcels  
+`;tell xegony.Goodurden` for any mistakes, ideas or if you need any help.
 
 ## Resource Links
 * [Good's map pack](https://www.redguides.com/community/resources/goods-everquest-map-pack.303/)  
