@@ -8,4 +8,4 @@ P -8930.7061, -389.8179, 1064.7820,  0, 0, 127,  2,  Korriz_Stillripple
 P -8892.0000, -1123.1592, 1061.3761,  0, 0, 127,  2,  Fallstan_Mythmoor
 P -8908.5137, -1223.2323, 1061.3761,  0, 0, 127,  2,  Bosellana_Skyspeed
 P 1809.4435, -301.9458, 24.6104,  0, 0, 127,  2,  Matranisu_Slad
-P 1853.7091, -485.0446, 24.5917,  240, 240, 240,  2,  Agent_of_Change_(R)_Karnor's_Castle
+P 1853.7090, -485.0446, 24.5917,  240, 240, 240,  2,  Agent_of_Change_(R)_Karnor's_Castle

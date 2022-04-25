@@ -12,10 +12,10 @@ P -1232.9181, -870.6980, -63.9979,  240, 0, 0,  2,  an_ancient_shrieker_sporemas
 P -1989.2946, -534.6345, -62.1253,  240, 0, 0,  2,  a_dark_horror_master
 P -107.2210, -604.1910, -63.9979,  240, 0, 0,  2,  a_destructive_thought_leech
 P 29.6733, 79.3311, -62.1565,  240, 0, 0,  2,  an_enraged_shrieker
-P -1375.8562, 4.2500, -60.5621,  240, 0, 0,  2,  a_foul_ancient_shrieker
+P -1375.8561, 4.2500, -60.5621,  240, 0, 0,  2,  a_foul_ancient_shrieker
 P 332.5099, 293.7608, -60.5123,  240, 0, 0,  2,  Greabam_the_Lost
 P -518.2169, 471.9737, -64.2240,  240, 0, 0,  2,  a_hideous_thought_leech
 P -428.4871, 851.2653, -61.5887,  240, 0, 0,  2,  Lhurgoz_the_Decayed
 P 122.9150, 685.5710, -95.6854,  240, 0, 0,  2,  a_pestilent_shrieker
-P -124.6341, -779.4284, -60.5001,  240, 0, 0,  2,  Oldencamp_the_Lost
+P -124.6341, -779.4283, -60.5001,  240, 0, 0,  2,  Oldencamp_the_Lost
 P 449.9687, 302.7914, -59.3136,  240, 0, 0,  2,  _a_deepspore_mushroom+all_east_side

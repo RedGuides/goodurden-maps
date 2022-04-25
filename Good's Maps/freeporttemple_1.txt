@@ -1,0 +1,10 @@
+P 1.7319, -691.8198, -50.3798,  240, 127, 0,  3,  Tradeskills_(Downstairs)
+P -0.0851, -812.3791, -50.4479,  240, 127, 0,  3,  Bazaar_TL_(Downstairs)
+P 0.8908, -643.9286, 15.7245,  240, 127, 0,  3,  Tribute_Master
+P -50.3330, -728.3124, 15.7129,  240, 127, 0,  3,  Disteller_and_Shady
+P 40.1382, -735.9689, 15.7433,  240, 127, 0,  3,  Vori_(General_Goods)
+P 42.7743, -677.7094, 15.7439,  240, 127, 0,  3,  Banker
+P 123.0329, -662.8243, 15.7424,  240, 127, 0,  3,  Renly_(AA_Reset)
+P 62.8718, -323.0429, -36.0956,  240, 127, 0,  3,  Exterminator_Glurg_(Roams)_Daily_Quest
+P -174.0103, -235.5833, 13.5578,  240, 127, 0,  3,  Klonopin_(Master_Translocator)
+P -12.9160, 124.8085, 33.5541,  240, 127, 0,  3,  Guard_Qezitin_(Group_Daily)

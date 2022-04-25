@@ -20,3 +20,4 @@ P -2876.4856, 185.7823, -14.9938,  0, 0, 127,  2,  Jahsohn_Ak'sot*(Mag1.0)
 P -2325.3960, 92.6977, -30.2690,  0, 0, 127,  2,  Bealya_Tanilsuia(LDoN)
 P 2559.3721, 1717.3440, 34.6432,  0, 0, 127,  2,  Barstre_Songweaver(LDoN)1.Adventure_2:_favor_journal_3:_Morden_Rasp_4:_farstone_
 P 3492.0000, -180.0000, 12.5132,  0, 0, 0,  2,  Succor
+P 2337.9321, 1667.4084, 29.1400,  127, 64, 0,  2,  Arlien_Browch_(Q)
