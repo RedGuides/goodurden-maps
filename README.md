@@ -1,9 +1,12 @@
 # Organizing Map Folders
 Custom maps should be kept in a sub-directory of your EverQuest map directory. For example,
 
+```
 C:\users\public\Everquest\maps\Good's Maps 
 C:\users\public\Everquest\maps\Collection Ground Spawns
 C:\users\public\Everquest\maps\Brewall's Maps  
+```
+
 
 In-game, you switch between map folders via a dropdown in the top left corner of the map.
 

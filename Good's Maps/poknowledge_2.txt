@@ -57,4 +57,3 @@ P -921.1096, 22.5533, 64.2998,  0, 0, 127,  2,  Pathfinder_Arelat(Druid1.5)
 P -730.6722, 247.0078, -95.6854,  0, 0, 0,  1,  Spell_Research_Table
 P 216.5441, 249.2815, -155.9204,  0, 0, 0,  1,  (GS)_Gibbledon's_Jar_of_Pickels
 P -1018.4557, 1.6402, 387.5830,  0, 127, 127,  2,  Riveting_Tales_of_Rivits_(U)
-P -975.6913, 93.0594, 64.0020,  0, 0, 0,  1,  Book_of_History_(GS)
