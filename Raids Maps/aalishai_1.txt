@@ -1,1 +1,0 @@
-P -544.8632, 35.9306, 5.1245,  0, 0, 240,  2,  Verimillion_Refuge_in_Symmetry(R)
