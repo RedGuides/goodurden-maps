@@ -1,3 +1,0 @@
-P 244.0557, 301.2689, -40.8332,  127, 0, 0,  2,  Sunshine_Sensible_Warmth
-P -388.9699, 3.5070, -51.8423,  127, 0, 0,  2,  Radiant_Fog_Evening
-P 299.3331, 704.2046, -38.1845,  127, 0, 0,  2,  Feather_Silver_Sheen

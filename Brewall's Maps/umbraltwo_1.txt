@@ -1,8 +1,0 @@
-P -2013.0000, 544.0000, 25.0000,  240, 0, 0,  3,  to_Maiden's_Eye
-P 422.0000, 2561.0000, 139.0000,  240, 0, 0,  3,  to_Vex_Thal
-P -162.6916, -2813.5479, 400.4258,  0, 0, 240,  1,  GS:_Everfrozen_Shard
-P -224.7074, -2867.7959, 390.3461,  240, 240, 240,  2,  deep_in_netherbian_caverns
-P 952.9070, -1606.3096, 94.9214,  0, 127, 127,  2,  Korah_Kai_the_Gardener_(Quests)
-P 781.5288, -1313.1543, 49.2000,  0, 127, 127,  2,  Dirkwafer_Home_Security_Copter_(Quests,Roam)
-P 933.6141, -1463.3378, 62.3588,  0, 127, 127,  2,  Binkl_Dirkwafer_(Quests)
-P -57.0608, -1050.3287, 24.7989,  0, 0, 0,  2,  Remains_of_Vah_Kerrath

@@ -1,19 +1,14 @@
 # Organizing Map Folders
 Custom maps should be kept in a sub-directory of your EverQuest map directory. For example,
 
+```
+C:\users\public\Everquest\maps\Good's Maps 
+C:\users\public\Everquest\maps\Collection Ground Spawns
 C:\users\public\Everquest\maps\Brewall's Maps  
-C:\users\public\Everquest\maps\Good's Maps  
+```
+
 
 In-game, you switch between map folders via a dropdown in the top left corner of the map.
-
-## Brewall's Maps
-Brewall's maps are posted on their  site, http://www.eqmaps.info  
-To get an idea of the care Brewall puts into mapping, look at the Map Comparisons here:  
-http://www.eqmaps.info/map-comparisons/
-
-### Key
-The map key is kept up-to-date here:  
-http://www.eqmaps.info/eq-map-files/mapping-standards/
 
 ## Good's Maps
 Good's maps are known for their detail and broad community support. They post updates and answers in this thread,
@@ -57,8 +52,7 @@ or
 via the in-game parcels  
 `;tell xegony.Goodurden` for any mistakes, ideas or if you need any help.
 
-## Resource Links
+## Resource Link
 * [Good's map pack](https://www.redguides.com/community/resources/goods-everquest-map-pack.303/)  
-* [Brewall's map pack](https://www.redguides.com/community/resources/brewalls-everquest-maps.153/)
 
 

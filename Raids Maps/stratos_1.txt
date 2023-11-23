@@ -1,3 +1,0 @@
-P -667.1695, 65.8433, 236.4762,  0, 0, 240,  2,  Masterful_Azure_Heavens(R)
-P -179.1724, -163.4636, 50.9121,  0, 0, 240,  2,  Warm_Cloud_Auger(R)
-P -190.8706, -149.8330, 50.9058,  0, 0, 240,  2,  Unraveling_Consciousness_Blue(R)
