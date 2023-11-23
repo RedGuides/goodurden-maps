@@ -1,0 +1,5 @@
+P -600.0000, -1150.0000, 0.0000,  0, 0, 0,  3,  Gates_of_Discord
+P -600.0000, -1000.0000, 0.0000,  0, 0, 0,  3,  Natimbi_and_Kod'Taz_can_be_found_in_Natimbi
+P -600.0000, -850.0000, 0.0000,  0, 0, 0,  3,  Barindu,_Ferubi,_and_Riwwi_can_be_found_in_Qinimi
+P -600.0000, -700.0000, 0.0000,  0, 0, 0,  3,  Yxtta_&_Qvic_can_be_found_in_Kod'Taz
+P -600.0000, -550.0000, 0.0000,  0, 0, 0,  3,  Txevu_can_be_found_in_Qvic
