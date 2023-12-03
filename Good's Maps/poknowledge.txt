@@ -4328,7 +4328,7 @@ P 479.6206, 812.2842, -145.5363,  0, 127, 0,  3,  to_Steamfont_Mtns_(Ak`Anon)
 P 247.8471, -950.4664, -144.7460,  0, 127, 0,  3,  to_Greater_Faydark_(Felwithe)
 P 346.0000, 974.0000, -139.0000,  0, 127, 0,  3,  to_Field_of_Bone_(Cabilis)
 P -442.8258, 1199.6283, -140.3899,  0, 127, 0,  3,  to_Oggok_(Feerot/Dream)
-P 565.9361, -363.3503, -145.1399,  0, 127, 0,  3,  to_Shadeweaver's_Thicket_(Shar_Vahl)
+P 565.9361, -363.3503, -145.1399,  0, 127, 0,  3,  to_Shadeweaver's_Thicket_(Shar_Vahl/Divided)
 P -214.4773, 257.8240, -127.9979,  0, 127, 0,  3,  to_PoTime
 P -564.4695, -49.3083, 0.2000,  0, 127, 0,  3,  Priest_of_Discord(to_Dranik's_Scar)
 P -1408.9198, -1083.7155, -146.1131,  0, 127, 0,  3,  to_Misty_Thicket(Rivervale)
