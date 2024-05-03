@@ -1,0 +1,8 @@
+P -21.5076, 420.2618, -194.2191,  0, 0, 240,  2,  Sergeant_Hujiid_(R)
+P -865.1404, -219.8620, -361.6409,  0, 127, 0,  3,  Exit_'Leave
+P -114.5714, 535.6084, -191.1743,  0, 127, 0,  3,  Exit_for_Mean_Streets
+P -19.5043, 419.7469, -192.6378,  0, 0, 0,  2,  T1a.Pit_Fight:_Deal_>_Prepared
+P -19.0365, 420.1571, -194.2191,  0, 0, 0,  2,  The_Shadwow_Move:_Pass_>_Wish
+P -21.4991, 420.0231, -192.1236,  0, 0, 0,  2,  T1b.Mean_Streets:_Significant_>_Equipped
+P -160.8649, 522.9220, -192.4306,  0, 127, 0,  3,  Exit_for_Under_Siege
+P -27.5000, 425.3750, -192.6250,  0, 0, 0,  2,  Under_Siege_:_Larger_>_Ready

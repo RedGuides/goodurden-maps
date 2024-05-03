@@ -1,0 +1,2 @@
+P 730.8926, -1219.8080, -102.6618,  0, 0, 240,  2,  Animist_Scoren_(R)_The_Artist__'Help_>_Ready
+P 669.1783, -594.5823, -91.0698,  0, 0, 240,  2,  Animist_Khalan_(R)_Shadow_Haven_'Large_>_Ready
