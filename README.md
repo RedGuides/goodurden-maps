@@ -12,7 +12,8 @@ In-game, you switch between map folders via a dropdown in the top left corner of
 
 ## Good's Maps
 Good's maps are known for their detail and broad community support. They post updates and answers in this thread,
-https://forums.daybreakgames.com/eq/index.php?threads/goods-maps-pack.238818/
+
+https://forums.everquest.com/index.php?threads/goods-maps-pack.238818/
 
 ### Key
 
