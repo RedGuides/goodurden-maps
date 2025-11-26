@@ -29,3 +29,8 @@ P 901.0000, -82.0000, -27.9989,  0, 0, 240,  3,  Zartox_(Jewelry)
 P 931.0000, -81.0000, -27.9989,  0, 0, 240,  3,  Nekola_(Gems)
 P 971.0000, -93.0000, -41.9677,  0, 0, 240,  3,  Lynsalai_(Merchant)
 P 863.5113, -77.6850, -55.9667,  0, 0, 240,  3,  Kwilrz_Vn'Ycxa
+P 1097.3048, 171.0416, -39.8143,  0, 0, 240,  3,  Vexaria_D`Mord_(Ranger_Guildmaster)
+P 1082.4714, -14.4785, 1.7221,  0, 0, 240,  2,  Vexia_D`Ynth_(Ranger_Guildmaster)
+P 1109.9576, -29.5620, 1.7335,  0, 0, 240,  3,  Draxen_S'Kyr_(Ranger_Guildmaster)
+P 889.4571, -152.1428, 1.7260,  0, 0, 240,  3,  Zalara_N`Hex_(Ranger_Spells)
+P 875.9551, -151.9043, 1.7361,  0, 0, 240,  3,  Zethril_N'Hex_(Ranger_Spells)
