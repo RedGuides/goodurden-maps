@@ -42,7 +42,7 @@ P -840.3437, -1574.3960, 191.5809,  127, 64, 0,  2,  (WL)Travel_to_Steppes
 P -2083.2339, 705.5300, 24.3834,  127, 64, 0,  2,  (WL)Cave_behind_Minohten_Camp
 P 75.0000, 2095.0000, 0.0000,  127, 64, 0,  2,  (WL)Cross_into_Mesa
 P -2590.0000, 420.0000, 0.0000,  127, 64, 0,  2,  (WL)Lost_Nymph_soul
-P -3344.4268, -1343.3977, 98.3915,  127, 64, 0,  2,  (WL)Blackfeather_Roost
+P -3344.4268, -1343.3976, 98.3915,  127, 64, 0,  2,  (WL)Blackfeather_Roost
 P -1479.8749, 12.9223, 28.9070,  127, 64, 0,  2,  (WL)Dromrek_Jaunt
 P 24.1507, 635.3409, 175.6407,  127, 64, 0,  2,  (WL)Windwillow
 P -295.0000, -15.0000, 0.0000,  127, 64, 0,  2,  (WL)Hissing_Bend_Bridge
@@ -62,9 +62,9 @@ P 969.9416, -1498.4749, 80.9240,  0, 0, 127,  2,  Shade_of_Glenicae
 P -1231.6017, 634.7845, 83.7973,  0, 0, 127,  2,  Simu*
 P -56.0000, 549.0000, 175.0000,  0, 0, 127,  2,  Ramona
 P -971.2530, 745.6580, 83.3799,  0, 0, 127,  2,  Nicoli
-P 43.7030, -1575.6510, 44.7233,  0, 0, 0,  1,  CoL:Cracked_Waterspring_Scepter
+P 43.7030, -1575.6509, 44.7233,  0, 0, 0,  1,  CoL:Cracked_Waterspring_Scepter
 P -1972.1521, 1152.6210, -38.2879,  0, 0, 0,  1,  CoL:Oread's_Willow_Whipvine
 P -134.6716, 1072.2134, 81.1354,  0, 0, 0,  1,  CoL:Sliver_of_Goru`kar's_Willowstaff
-P 1096.5177, 1509.9723, 16.7439,  0, 0, 0,  1,  CoL:Thunderhorn_of_the_Tribe
+P 1096.5176, 1509.9723, 16.7439,  0, 0, 0,  1,  CoL:Thunderhorn_of_the_Tribe
 P 1025.5719, -1584.2083, 67.4025,  127, 0, 0,  2,  Green_Legion_Commander*
 P -48.7151, 576.1849, 180.5708,  127, 64, 0,  2,  Eat_Cake
