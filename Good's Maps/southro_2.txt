@@ -29,4 +29,4 @@ P 1151.3086, -3928.3716, 3.1449,  0, 127, 127,  2,  West_bank
 P 1028.5536, -3906.0171, 39.9657,  127, 0, 0,  2,  youthful_cyclops
 P 2263.2686, -821.9255, 42.0736,  127, 64, 0,  2,  Explore_the_orc_camps
 P 522.0442, -2058.1377, 98.0752,  127, 64, 0,  2,  Explore_the_sand_giant_camps
-P 1514.2085, -3904.9722, 79.1105,  0, 0, 0,  2,  Explore_the_spectre_tower
+P 1514.2085, -3904.9722, 79.1105,  127, 64, 0,  2,  Explore_the_spectre_tower

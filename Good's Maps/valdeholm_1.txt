@@ -1,4 +1,4 @@
-P 685.4589, 1577.1699, 79.6970,  0, 0, 240,  2,  Commander_Haesgrin_(Q
+P 685.4589, 1577.1698, 79.6970,  0, 0, 240,  2,  Commander_Haesgrin_(Q
 P 1072.2660, 1509.2300, 81.2189,  0, 0, 240,  2,  Wraithguard_Thentil_Strongarm_(Q)
 P -1226.6720, 1500.2129, 79.7019,  0, 0, 240,  2,  Wraithguard_Warden_Hrosigar
 P -1432.5669, 1536.9889, 79.7019,  0, 0, 240,  2,  Wraithguard_Lorekeeper_Fenegar_(Q)

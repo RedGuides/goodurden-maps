@@ -37,4 +37,6 @@ P 1022.7296, 82.2242, 0.2780,  0, 0, 127,  2,  Brunar_Rankin(Pal1.5)
 P 787.6483, 717.2242, 3.7298,  0, 0, 127,  2,  1-Exterminator_Pandeen
 P 915.2430, 394.6731, -0.3307,  0, 0, 127,  2,  2-a_strange_black_cat
 P 908.1271, 399.3945, -2.7629,  0, 0, 0,  2,  G.S_Pouch_(GS)
-P 1109.6687, 1094.4457, 5.6297,  0, 0, 127,  2,  Groflah_Steadirt_(8pm-9am)can_kill_the_ph
+P 1109.6686, 1094.4457, 5.6297,  0, 0, 127,  2,  Groflah_Steadirt_(8pm-9am)can_kill_the_ph
+P 220.3225, 384.3239, 10.5460,  0, 127, 127,  2,  Toxxulian_Sesame_Extract_(GS)
+P -6.4873, 342.5755, 6.4219,  0, 127, 127,  2,  Clue_(25th)
