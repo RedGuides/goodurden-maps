@@ -65,3 +65,4 @@ P -2906.3477, -1829.3539, 471.9205,  0, 0, 0,  1,  signal_of_fire
 P 1275.8307, -609.9836, -86.9312,  0, 0, 0,  1,  CoL:Ancient_Blighted_Bark
 P -46.9973, -929.4836, 6.1174,  0, 0, 0,  1,  CoL:Petrified_Leather_Boot_Sole
 P 2409.2112, 1157.1509, 182.6082,  0, 0, 0,  1,  CoL:Preserved_Hairy_Halfling_Foot
+P -628.5037, 98.0241, 13.5815,  0, 127, 127,  2,  Andy_Littlefoot_(BD)
