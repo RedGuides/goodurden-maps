@@ -1,5 +1,5 @@
 # Imports Goodurden's map packs from his public Google Drive folder and opens a PR.
-# Design: https://github.com/RedGuides/GitMap/blob/main/DESIGN.md
+# rewritten from: https://github.com/RedGuides/GitMap
 name: GitMap
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: main
       - name: Fetch and extract Goodurden's zips
