@@ -1,0 +1,64 @@
+# Imports Goodurden's map packs from his public Google Drive folder and opens a PR.
+# Design: https://github.com/RedGuides/GitMap/blob/main/DESIGN.md
+name: GitMap
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+concurrency: gitmap
+permissions:
+  contents: write
+  pull-requests: write
+env:
+  FOLDER: 0B3vS5YFyITSYfko5T1lZN2taOUdhczhaemU5Skp0U2xRY29EQkpoalRHYjduRzNrYmx6R2c
+  RKEY: 0-Z4yulFhJjmMOPRxh8-PpsQ
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fetch and extract Goodurden's zips
+        env:
+          KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          set -euo pipefail
+          w="$RUNNER_TEMP/gitmap"; mkdir -p "$w/tree/Good's Maps"
+          api="https://www.googleapis.com/drive/v3/files"
+          hdr="X-Goog-Drive-Resource-Keys: $FOLDER/$RKEY"
+          curl -sS --fail-with-body -H "$hdr" -G "$api" \
+            --data-urlencode "q='$FOLDER' in parents and trashed=false" \
+            --data-urlencode "fields=files(id,name,mimeType,md5Checksum)" \
+            --data-urlencode "orderBy=modifiedTime" \
+            --data-urlencode "key=$KEY" > "$w/listing.json"
+          jq -r '.files[]
+                 | select(.mimeType | test("zip"))
+                 | select(.name | test("screenshot"; "i") | not)
+                 | [.id, .md5Checksum, .name] | @tsv' "$w/listing.json" > "$w/zips.tsv"
+          n=$(wc -l < "$w/zips.tsv")
+          [ "$n" -ge 4 ] || { echo "::error::only $n zips listed, refusing to continue"; exit 1; }
+          while IFS=$'\t' read -r id md5 name; do
+            echo "$name"
+            curl -sS --fail-with-body -H "$hdr" -o "$w/dl.zip" "$api/$id?alt=media&key=$KEY"
+            echo "$md5  $w/dl.zip" | md5sum -c --quiet
+            unzip -oq "$w/dl.zip" -d "$w/tree"
+            find "$w/tree" -maxdepth 1 -name '*.txt' -exec mv -ft "$w/tree/Good's Maps" {} +
+          done < "$w/zips.tsv"
+          rm -rf "$w/tree/__MACOSX" "$w/tree/README.md"
+          find . -mindepth 1 -maxdepth 1 ! -name .git ! -name .github \
+               ! -name README.md ! -name '*.docx' -exec rm -rf {} +
+          mv "$w/tree"/* .
+          cut -f3 "$w/zips.tsv" | sed 's/^/- /' > "$w/packs.md"
+          { echo "Automated import of Goodurden's Drive folder. Packs:"; cat "$w/packs.md"; echo
+            echo "Thread: https://forums.everquest.com/index.php?threads/goods-maps-pack.238818"
+            echo "Edit the squash-merge message with Good's release notes before merging."
+          } > "$w/body.md"
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          branch: dev
+          base: main
+          title: Goodurden maps update
+          commit-message: Import Goodurden maps from Google Drive
+          body-path: ${{ runner.temp }}/gitmap/body.md
