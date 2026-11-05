@@ -28,11 +28,12 @@ jobs:
           w="$RUNNER_TEMP/gitmap"; mkdir -p "$w/tree/Good's Maps"
           api="https://www.googleapis.com/drive/v3/files"
           hdr="X-Goog-Drive-Resource-Keys: $FOLDER/$RKEY"
+          curl() { command curl --retry 4 --retry-all-errors "$@"; }
           curl -sS --fail-with-body -H "$hdr" -G "$api" \
             --data-urlencode "q='$FOLDER' in parents and trashed=false" \
             --data-urlencode "fields=files(id,name,mimeType,md5Checksum)" \
             --data-urlencode "orderBy=modifiedTime" \
-            --data-urlencode "key=$KEY" > "$w/listing.json"
+            --data-urlencode "key=$KEY" -o "$w/listing.json"
           jq -r '.files[]
                  | select(.mimeType | test("zip"))
                  | select(.name | test("screenshot"; "i") | not)
